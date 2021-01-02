@@ -10,7 +10,7 @@ Click here to download manually を実行してインストール
 から
 VSCode Windows版をインストール
 
-以下の設定をする
+以下の設定をする  
 ![環境構築1](https://user-images.githubusercontent.com/56077133/103454337-45330680-4d26-11eb-8147-712720ff22b8.png)
 
 2. 以下プラグインの導入
